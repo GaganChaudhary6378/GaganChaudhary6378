@@ -30,15 +30,15 @@
   <a href="https://www.vercel.com" target="_blank" rel="noreferrer"> <img src="vercel-icon.svg" alt="vercel" width="40" height="40"/>
  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+[![Gagan's github activity graph](https://activity-graph.herokuapp.com/graph?username=GaganChaudhary6378&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/GaganChaudhary6378/github-readme-activity-graph)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaganchaudhary6378&show_icons=true&locale=en&layout=compact&&random=&randomss524272" style="max-width:100%; margin-bottom:10px"alt="gaganchaudhary6378" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaganchaudhary6378&show_icons=true&locale=en&&random=&randomss524272" style="padding-top:10px" alt="gaganchaudhary6378" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaganchaudhary6378&" alt="gaganchaudhary6378" /></p>
-<a href="https://github.com/GaganChaudhary6378">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=GaganChaudhary6378&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Gagan's GitHub Contributions Graph"/>
-</a>
 
-## Snake eating my contribution
+
+## ⚡⚡Recent Contributions
 
 ![snake gif](https://github.com/GaganChaudhary6378/GaganChaudhary6378/blob/output/github-contribution-grid-snake.gif)
