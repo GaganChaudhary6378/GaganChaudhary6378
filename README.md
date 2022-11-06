@@ -38,3 +38,7 @@
 <a href="https://github.com/GaganChaudhary6378">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=GaganChaudhary6378&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Gagan's GitHub Contributions Graph"/>
 </a>
+
+## Snake eating my contribution
+
+![snake gif](https://github.com/GaganChaudhary6378/GaganChaudhary6378/blob/output/github-contribution-grid-snake.gif)
