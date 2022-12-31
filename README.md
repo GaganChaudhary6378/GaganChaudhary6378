@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/GaganCh88472243?t=ToBe9Ug35xM6_-YQ9-aPnw&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/GaganCh88472243?logo=twitter&style=for-the-badge" alt="@gaganch88472243" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **API, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GaganChaudhary6378](https://github.com/GaganChaudhary6378)
 
