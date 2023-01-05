@@ -32,7 +32,6 @@
 
 
  [![Gagan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GaganChaudhary6378&theme=github-compact)](https://github.com/GaganChaudhary6378/github-readme-activity-graph)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaganchaudhary6378&show_icons=true&locale=en&layout=compact&&random=&randomss524272" style="max-width:100%; margin-bottom:10px"alt="gaganchaudhary6378" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaganchaudhary6378&show_icons=true&locale=en&&random=&randomss524272" style="padding-top:10px" alt="gaganchaudhary6378" /></p>
 
