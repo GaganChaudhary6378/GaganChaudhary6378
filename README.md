@@ -38,6 +38,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaganchaudhary6378&" alt="gaganchaudhary6378" /></p>
 
 
-## ⚡⚡Recent Contributions 👇
+## ⚡⚡Recent Contributions 
 
 ![snake gif](https://github.com/GaganChaudhary6378/GaganChaudhary6378/blob/output/github-contribution-grid-snake.gif)
