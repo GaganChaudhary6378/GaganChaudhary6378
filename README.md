@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GaganChaudhary6378](https://github.com/GaganChaudhary6378)
 
-- 💬 Ask me about **C++,C,HTML,CSS,JavaScript,API,React**
+- 💬 Ask me about **C++,C,HTML,CSS,JavaScript,API,React,Next JS**
 
 - 📫 How to reach me **singhgaganbtp@gmail.com**
 
