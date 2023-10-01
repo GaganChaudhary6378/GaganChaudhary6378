@@ -30,7 +30,7 @@
   <a href="https://www.vercel.com" target="_blank" rel="noreferrer"> <img src="vercel-icon.svg" alt="vercel" width="40" height="40"/>
  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-
+[![An image of @gaganchaudhary6378's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaganchaudhary6378)](https://holopin.io/@gaganchaudhary6378)
  [![Gagan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GaganChaudhary6378&theme=github-compact)](https://github.com/GaganChaudhary6378/github-readme-activity-graph)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaganchaudhary6378&show_icons=true&locale=en&&random=&randomss524272" style="padding-top:10px" alt="gaganchaudhary6378" /></p>
